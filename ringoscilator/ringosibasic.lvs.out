@@ -1,0 +1,19 @@
+Flattening unmatched subcell terbaru in circuit ringosibasic (0)(3 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_64Z3AY in circuit ringosibasic (0)(3 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_LGS3BL in circuit ringosibasic (0)(3 instances)
+
+Cell ringosibasic (1) disconnected node: vdd
+Cell ringosibasic (1) disconnected node: out
+Cell ringosibasic (1) disconnected node: gnd
+
+Subcircuit pins:
+Circuit 1: ringosibasic                    |Circuit 2: ringosibasic                    
+-------------------------------------------|-------------------------------------------
+vdd                                        |vdd                                        
+gnd                                        |gnd                                        
+out                                        |out                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes ringosibasic and ringosibasic are equivalent.
+
+Final result: Verify:  cell /home/faisalasadullah17/ringoscilator/ringosibasic.sch.spc has no elements and/or nodes.  Not checked.
